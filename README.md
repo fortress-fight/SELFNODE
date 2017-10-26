@@ -1,0 +1,2 @@
+# SELFNODE
+slow and fast
