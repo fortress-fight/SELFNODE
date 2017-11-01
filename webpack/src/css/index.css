@@ -1,0 +1,12 @@
+body {
+    background-color: #58a;
+}
+#box {
+    background-image: url("../images/img.png");
+    width: 100vw;
+    height: 100vh;
+}
+
+#box {
+    display: flex;
+}
